@@ -1,12 +1,12 @@
 {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "description": "Nandu Development Framework CLI",
     "homepage": "https://github.com/nandu-org/nandu-dev-framework-cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nandu-org/nandu-dev-framework-cli/releases/download/v2.0.1/ndf-windows-amd64.exe#/ndf.exe",
-            "hash": "34bd04ecdd013a387338a2626e88754c97f9e7c2f3d4592101de03913c291f75"
+            "url": "https://github.com/nandu-org/nandu-dev-framework-cli/releases/download/v2.1.0/ndf-windows-amd64.exe#/ndf.exe",
+            "hash": "ac456cf855ed68ac1480df3ed3877da4d8466661f0468c9785459bfdf03f47a1"
         }
     },
     "bin": "ndf.exe",
